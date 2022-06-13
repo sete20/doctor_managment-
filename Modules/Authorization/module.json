@@ -1,0 +1,13 @@
+{
+    "name": "Authorization",
+    "alias": "authorization",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Authorization\\Providers\\AuthorizationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

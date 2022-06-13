@@ -1,0 +1,18 @@
+{
+    "App": true,
+    "Apps": true,
+    "Users": true,
+    "Cources": true,
+    "Notification": true,
+    "Category": true,
+    "Notifications": true,
+    "Categories": true,
+    "Settings": true,
+    "Auth": true,
+    "Courses": true,
+    "Doctors": true,
+    "Setting": true,
+    "Authorization": true,
+    "Log": true,
+    "Catalog": true
+}
